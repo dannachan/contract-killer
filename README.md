@@ -1,4 +1,4 @@
-# California Contract Killer
+# Contract Killer
 
 This is a "plain language" contract template for a freelance web developer, based on the Stuff & Nonsense Ltd. [Killer Contract](https://stuffandnonsense.co.uk/projects/contract-killer/).
 
